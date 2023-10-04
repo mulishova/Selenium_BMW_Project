@@ -1,2 +1,2 @@
-# Selenium_Booking_Project
+# Selenium_BMW_Project
 Study project
